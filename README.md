@@ -9,7 +9,7 @@
 - Know how to Fork, Clone and PR concept. 
 
 
-![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fwdi-sf-march-2014%2Fnotes%2Fblob%2Fmaster%2FGit%2Fintro_to_git_and_github.md&psig=AOvVaw1P1udke1uZzSeu4jyRDzsO&ust=1632746025431000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPDRyonTnPMCFQAAAAAdAAAAABAD)
+![](https://camo.githubusercontent.com/8eae8cdaf798730ba3aa9e1c2de283305a06443d28393a7cceb53b1d2253f972/687474703a2f2f312e62702e626c6f6773706f742e636f6d2f2d57593259704e72335736672f555936745a41632d4833492f4141414141414141424c592f784a3978337749593856382f733434302f476974687562322e706e67)
 
 ## Why Git
 ---
