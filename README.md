@@ -62,12 +62,26 @@ git push origin master
 `git clone` will clone the content of the github repo into your local machine. You can then start editing it and add, commit, and push the changes. No need for `git remote` in this case as the remote repo is already added when cloned.
 
 
-## Lab
+## Lab 1
 - Fork this Github repo into your account
 - clone the repo into your machine
 - edit the name.txt file by erasing the content and adding your name
 - push the changes to Github
 
+## Lab 2
+- Create a Folder in Desktop “buildings”.
+- Go into the folder.
+- Create the git repo.
+- Create 4 folders named Building 1, Building 2, Building 3 and Building 4
+- Git status
+- Create a file called “index.html” inside of Building 1.
+- Go one level up to the “buildings” folder.
+- Git status
+- Add changes to the repo.
+- Do the initial commit.
+- Git status.
+- Do a git add and commit each time you create the index.html file on each building folder.
+- Git Status.
 
 ## Resources
-For more info, check [git documentation](https://git-scm.com/docs)
+For more info, check [git documentation](https://git-scm.com/docs) and [git cheet sheet](https://education.github.com/git-cheat-sheet-education.pdf)
