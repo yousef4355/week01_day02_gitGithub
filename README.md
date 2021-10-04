@@ -24,6 +24,16 @@ A Git repository (or repo for short) contains all of the project files and the e
 On Unix-based operating systems such as macOS, files and folders that start with a period (.) are hidden, so you will not see the .git folder in the macOS Finder unless you show hidden files, but it’s there! You might be able to see it in some code editors.
 
 
+## Setups
+In your terminal enter the following two lines:
+```
+git config --global user.name "your_name"
+git config --global user.email your_email
+```
+
+Then, generate an access token from Github using the following [guide](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token)
+
+
 ## Basics steps used for git and github
 
 1. Create a new repository on a local project and commit changes to Github:
@@ -84,4 +94,4 @@ git push origin master
 - Git Status.
 
 ## Resources
-For more info, check [git documentation](https://git-scm.com/docs) and [git cheet sheet](https://education.github.com/git-cheat-sheet-education.pdf)
+For more info, check [git documentation](https://git-scm.com/docs) and [git cheat sheet](https://education.github.com/git-cheat-sheet-education.pdf)
